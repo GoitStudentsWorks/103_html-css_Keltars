@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/yacht-jet-g6/",
+    "build": "vite build --base=/103_html-css_Keltars/",
     "preview": "vite preview"
   },
   "devDependencies": {
